@@ -27,3 +27,9 @@ Working Experience
 **Software Engineer**<br>[Nigeriaeexport](http://nigeriaeexport.com) ***(2015 - 2018)***
 
 **Web Developer**<br>[XPT Subsidiaries](http://xpt-subsidiaries.com), [Natural Shea Online](http://www.naturalsheaonline.com) ***(2017 - 2018)***
+
+Technical Skills
+---------------
+- Software Engineering: *PHP, JavaScript, Git, GitHub*
+- Graphics Design: *Adobe Photoshop*
+- Microsoft Office: *Microsoft Word, Excel, Powerpoint*
