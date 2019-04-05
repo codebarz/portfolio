@@ -33,3 +33,14 @@ Technical Skills
 - Software Engineering: *PHP, JavaScript, Git, GitHub*
 - Graphics Design: *Adobe Photoshop*
 - Microsoft Office: *Microsoft Word, Excel, Powerpoint*
+
+Main Strength
+------------
+- Excellent oral and communication skills.
+- Resilient proactive approach to problems.
+- Strong team spirit and Interpersonal relationship skills.
+- Problem solving and result oriented.
+- Resourcefulness, Integrity and self-confidence.
+- Good analytical skills and diplomacy.
+- Multitasking abilities under pressure with tenacity.
+- Flexibility and adaptability.
