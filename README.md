@@ -22,3 +22,8 @@ Academic Qualifications
 - Primary School Leaving Certificate &nbsp;
 *Springfield Private School, Ketu, Lagos, Nigeria **(1998 - 2004)***
 
+Working Experience
+------------------
+**Software Engineer**<br>[Nigeriaeexport](http://nigeriaeexport.com) ***(2015 - 2018)***
+
+**Web Developer**<br>[XPT Subsidiaries](http://xpt-subsidiaries.com), [Natural Shea Online](http://www.naturalsheaonline.com) ***(2017 - 2018)***
