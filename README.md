@@ -30,7 +30,7 @@ Working Experience
 
 Technical Skills
 ---------------
-- Software Engineering: *PHP, JavaScript, Git, GitHub*
+- Software Engineering: *`PHP` , `JavaScript`, `Git`, GitHub*
 - Graphics Design: *Adobe Photoshop*
 - Microsoft Office: *Microsoft Word, Excel, Powerpoint*
 
